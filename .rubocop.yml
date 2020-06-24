@@ -1,0 +1,1 @@
+require: './cops/use_select_in_where'
