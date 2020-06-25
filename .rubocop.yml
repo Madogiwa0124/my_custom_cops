@@ -1,4 +1,6 @@
 require: './cops/use_select_in_where'
+require: './cops/use_sanitized_sql_like'
+
 AllCops:
   TargetRubyVersion: 2.7.0
   NewCops: enable
